@@ -1,9 +1,66 @@
 html {
   font-family: Merriweather, serif;
+}
+
+li {
+  border-radius: 8px;
+  border: 1px solid #666;
+}
+
+th, td {
+  border: 1px solid #ccc;
+}
+
+td {
+  height: 8.5em;
+}
+
+.vostok {
+  background-color: #f2f2f2;
   color: #333;
 }
 
-ul {
+.remembrance {
+  background-color: #f2bcbc;
+  border: 1px solid #b92828;
+  color: #991919;
+}
+
+.kosmos {
   background-color: #f2f2f2;
-  border-radius: 8px;
+  color: #333;
+}
+
+.surtsey {
+  background-color: #d1e0bf;
+  border: 1px solid #6b7e54;
+  color: #51603f;
+}
+
+.robert {
+  background-color: #d1e0bf;
+  border: 1px solid #6b7e54;
+  color: #51603f;
+}
+
+.india {
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+.huxley {
+  background-color: #d2d6f0;
+  border: 1px solid #1d38da;
+  color: #38448e;
+}
+
+.doctor {
+  background-color: #d2d6f0;
+  border: 1px solid #1d38da;
+  color: #38448e;
+}
+
+.explorer {
+  background-color: #f2f2f2;
+  color: #333;
 }
